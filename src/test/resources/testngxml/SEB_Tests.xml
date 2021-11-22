@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Lease Calculator Tests" preserve-order="true" thread-count="2">
+    <test name="Test For Lease Calculator">
+        <classes>
+            <class name="com.seb.leaseCalculator.tests.Verify_Operating_Leasing_Calculation_Test"/>
+            <class name="com.seb.leaseCalculator.tests.Verify_Add_To_Compare_Button_Functionality_Test"/>
+        </classes>
+    </test>
+</suite>
